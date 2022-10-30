@@ -5,9 +5,10 @@
 }
 
 .hero--image {
-  max-width: 400px;
+  width: 90%;
   align-self: center;
   margin-bottom: 2rem;
+  flex-shrink: 1;
 }
 
 .hero--header {
