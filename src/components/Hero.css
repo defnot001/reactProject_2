@@ -1,0 +1,24 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.hero--image {
+  max-width: 400px;
+  align-self: center;
+  margin-bottom: 2rem;
+}
+
+.hero--header {
+  font-size: 36px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.hero--text {
+  color: #222222;
+  font-size: 16px;
+  font-weight: 400;
+  max-width: 75%;
+}
